@@ -1,0 +1,159 @@
+Which of these words was not borrowed into English?
+Mountain
+Flower
+Stone
+Rock
+Type:1
+Answer:3
+
+Which of these Languages is not a Romance Language?
+English
+Italian
+French
+Spanish
+Type:1
+Answer:1
+
+Which of these languages is not related to the other 3?
+Burmese
+Tibetan
+Chinese
+Korean
+Type:1
+Answer:4
+
+What was the native language of Jesus Christ?
+Hebrew
+Aramaic
+Ancient Egyptian
+Latin
+Type:1
+Answer:2
+
+Languages with non pulmonic constonants(click constonants) can be found where?
+The Kalahari Desert
+New Guinea
+Australia
+The Amazon
+Type:1
+Answer:1
+
+Which of these letters originated as pictograph for water?
+N
+M
+K
+P
+Type:1
+Answer:2
+
+Which of these languages does not utilize a syllabary?
+Cherokee
+Japanese
+Old Cypriot
+Persian
+Type:1
+Answer:4
+
+Which of these languages does not utilize a abjad?
+Persian
+Arabic
+Hindi
+Hebrew
+Type:1
+Answer:3
+
+A list of words used to determine relationships between languages is called?
+Phonology list
+Swadesh list
+Lexical inventory list
+Conjugation list
+Type:1
+Answer:2
+
+After English and Spanish what is the most Common language in PA?
+Chinese
+Polish
+Italian
+French
+Type:1
+Answer:3
+
+Tsunami:
+French
+German
+Japanese
+Hebrew
+Type:2
+Answer:3
+
+Casino:
+Swedish
+Italian
+German
+Arabic
+Type:2
+Answer:2
+
+Jungle:
+Sanskrit
+Swahili
+Hawaiian
+Burmese
+Type:2
+Answer:1
+
+Hammock:
+Cherokee
+Irish
+Turkish
+Taino
+Type:2
+Answer:4
+
+Jungle:
+Sanskrit
+Swahili
+Hawaiian
+Burmese
+Type:2
+Answer:1
+
+Chandelier:
+Russian
+Greek
+French
+Finnish
+Type:2
+Answer:3
+
+Sauna:
+Hungarian
+Finnish
+Swedish
+Japanese
+Type:2
+Answer:2
+
+Zombie:
+Bantu Languages
+Austronesian Languages
+Uralic Languages
+Dravidian Languages
+Type:2
+Answer:1
+
+Yacht:
+German
+Greek
+French
+Dutch
+Type:2
+Answer:4
+
+Hooligan:
+Norwegian
+Irish
+Australian Aboriginie Languages
+Sanskrit
+Type:2
+Answer:2
