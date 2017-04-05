@@ -22,24 +22,18 @@ localhost/project3.php
 Format of the text file
 for the text file to be read by the program it must be formatted properly in this form
 
-Question
+Question<br />
+Answer 1<br />
+Answer 2<br />
+Answer ...<br />
+Type:#<br />
+Answer:#<br />
+Blank Line<br />
 
-Answer 1
-
-Answer 2
-
-Answer ...
-
-Type:#
-
-Answer:#
-
-Blank Line
-
-<Question>
+Question<br />
 This line is exactly as it sounds, Put question here example: "How many Days are there in a year?";
 
-<Answer>
+Answer<br />
 Beneath the question line you can put possible answers to the question each new answer needs to be on an new line.
 For example:
 365
