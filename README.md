@@ -22,13 +22,13 @@ localhost/project3.php
 Format of the text file
 for the text file to be read by the program it must be formatted properly in this form
 
-<Question>
-<Answer 1>
-<Answer 2>
-<Answer ...>
-<Type:#>
-<Answer:#>
-<Blank Line>
+Question<br></br>
+Answer 1
+Answer 2
+Answer ...
+Type:#
+Answer:#
+Blank Line
 
 <Question>
 This line is exactly as it sounds, Put question here example: "How many Days are there in a year?";
