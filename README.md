@@ -22,12 +22,18 @@ localhost/project3.php
 Format of the text file
 for the text file to be read by the program it must be formatted properly in this form
 
-Question<br></br>
+Question
+
 Answer 1
+
 Answer 2
+
 Answer ...
+
 Type:#
+
 Answer:#
+
 Blank Line
 
 <Question>
